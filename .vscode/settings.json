@@ -1,0 +1,7 @@
+{
+  "cSpell.language": "en-GB",
+  "search.exclude": {
+    "**/venv": true,
+    "**/target": true
+  }
+}
